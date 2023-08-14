@@ -367,3 +367,8 @@ footer{
     text-align: center;
     font-family: 'Ysabeau Office', sans-serif;
 }
+.flex-all-center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
