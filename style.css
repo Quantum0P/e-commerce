@@ -49,6 +49,30 @@ nav .search{
     margin-left: -58px;
 }
 
+nav .logo .plus{
+    margin: 33px 0 0 -145px;
+    font-size: 11px;
+    font-style: italic;
+    color: white;
+}
+
+nav .logo .plus2{
+    margin: 34px 0 0 4px;
+    font-size: 11px;
+    color: yellow;
+    font-style: italic;
+    font-weight: 500;
+}
+
+nav .logo .star{
+    margin: 30px 0 0 -68px;
+}
+
+nav .logo .star img{
+    height: 11px;
+    width: 11px;
+}
+
 nav .search .search-container{
     width: 540px;
     height: 36px;
